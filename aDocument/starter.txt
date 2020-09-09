@@ -1,0 +1,6 @@
+reactHook
+ant_desing ui
+flexbox layout
+firebase's firestore realtime DB
+firebase Hosting
+firebase google Authentication (full login)
